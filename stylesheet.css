@@ -1,0 +1,85 @@
+title{
+  color:#33ff66;
+}
+
+body{
+  font-family:"Avenir Next"
+}
+.header li{
+  list-style:none;
+  float:left;
+}
+.header{
+  background-color:#ff6699;
+  height:120px;
+}
+.header-logo{
+  color: #009933;
+  float:left;
+  font-size: 34px;
+  padding:20px 40px;
+}
+.header-list{
+  float:left;
+
+}
+.header-list li{
+  float:left;
+  padding:30px 20px;
+}
+.main{
+  height:1000px;
+  background-color: #66FFFF;
+
+}
+.copy-container h1{
+  font-size:160px;
+}
+.copy-container h2{
+  font-size:60px;
+}
+.contents{
+  height:300px;
+  float:left;
+  background-image: url("http://uploda.ysklog.net/5d62e9284d5d4ed573ab658ba01d10e7.gif");
+  background-repeat:no-repeat;
+  background-position: center bottom;
+  background-size: contain;
+
+}
+
+
+.section-title{
+  border-bottom: 5px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+.contents-item{
+  float:left;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.contents-item p{
+  font-size: 24px;
+  margin-top: 30px;
+}
+
+.footer{
+  background-color: #00cc00;
+  color:#fff;
+  height:110px;
+  padding: 40px;
+}
+.footer-logo{
+  font-size:32px;
+  float:left;
+}
+.footer-list{
+  float:right;
+
+}
+.footer-list li{
+  padding-bottom: 20px;
+  list-style:none;
+}
