@@ -57,8 +57,8 @@ body{
 }
 .contents-item{
   float:left;
-  margin-right: 50px;
-  margin-left: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 .contents-item p{
   font-size: 24px;
