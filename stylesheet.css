@@ -41,6 +41,7 @@ body{
 }
 .contents{
   height:300px;
+  width:1000px;
   float:left;
   background-image: url("http://uploda.ysklog.net/5d62e9284d5d4ed573ab658ba01d10e7.gif");
   background-repeat:no-repeat;
