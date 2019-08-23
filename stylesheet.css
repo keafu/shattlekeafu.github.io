@@ -12,7 +12,6 @@ body{
 .header{
   background-color:#ff6699;
   height:120px;
-  width:1500px;
 }
 .header-logo{
   color: #009933;
@@ -30,7 +29,7 @@ body{
 }
 .main{
   height:1100px;
-  width:1500px;
+  width:800px;
   background-color: #66FFFF;
 
 }
@@ -71,7 +70,6 @@ body{
   background-color: #00cc00;
   color:#fff;
   height:110px;
-  width:1500px;
   padding: 40px;
 }
 .footer-logo{
